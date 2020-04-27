@@ -1,50 +1,102 @@
-{"anggota": [{"id":1,"nama":"Kissie Braunston","email":"kbraunston0@google.it","bio":"cultivate leading-edge partnerships"},
-{"id":2,"nama":"Fiona Peever","email":"fpeever1@mapy.cz","bio":"e-enable viral markets"},
-{"id":3,"nama":"Ebenezer Kilvington","email":"ekilvington2@netlog.com","bio":"engage killer communities"},
-{"id":4,"nama":"Salomi Handslip","email":"shandslip3@seattletimes.com","bio":"productize B2B action-items"},
-{"id":5,"nama":"Dorrie Besantie","email":"dbesantie4@skype.com","bio":"scale dynamic content"},
-{"id":6,"nama":"Lona Ashall","email":"lashall5@devhub.com","bio":"disintermediate customized vortals"},
-{"id":7,"nama":"Kalil Aubray","email":"kaubray6@bloglovin.com","bio":"leverage value-added portals"},
-{"id":8,"nama":"Corrine Heaphy","email":"cheaphy7@storify.com","bio":"facilitate visionary infomediaries"},
-{"id":9,"nama":"Artemus MacNucator","email":"amacnucator8@ucsd.edu","bio":"orchestrate world-class schemas"},
-{"id":10,"nama":"Clerc Duffill","email":"cduffill9@engadget.com","bio":"drive impactful synergies"},
-{"id":11,"nama":"Stefano Dodamead","email":"sdodameada@bbb.org","bio":"benchmark next-generation users"},
-{"id":12,"nama":"Darsie Gladtbach","email":"dgladtbachb@latimes.com","bio":"e-enable world-class models"},
-{"id":13,"nama":"Loreen Mordey","email":"lmordeyc@adobe.com","bio":"productize visionary ROI"},
-{"id":14,"nama":"Griffy Radbourn","email":"gradbournd@dell.com","bio":"envisioneer wireless technologies"},
-{"id":15,"nama":"Kaitlynn Kimmince","email":"kkimmincee@360.cn","bio":"disintermediate proactive e-commerce"},
-{"id":16,"nama":"Donni Riteley","email":"driteleyf@reuters.com","bio":"e-enable scalable e-tailers"},
-{"id":17,"nama":"Pennie Henzer","email":"phenzerg@about.me","bio":"leverage visionary e-tailers"},
-{"id":18,"nama":"Nestor Echallie","email":"nechallieh@google.co.uk","bio":"deploy open-source architectures"},
-{"id":19,"nama":"Freddie Alentyev","email":"falentyevi@howstuffworks.com","bio":"extend mission-critical e-markets"},
-{"id":20,"nama":"Kristina Kilmister","email":"kkilmisterj@jugem.jp","bio":"grow frictionless e-markets"},
-{"id":21,"nama":"Farlie Sextone","email":"fsextonek@list-manage.com","bio":"evolve killer web-readiness"},
-{"id":22,"nama":"Karissa Discombe","email":"kdiscombel@behance.net","bio":"target world-class ROI"},
-{"id":23,"nama":"Etti Bennen","email":"ebennenm@mysql.com","bio":"monetize ubiquitous paradigms"},
-{"id":24,"nama":"Bay Alps","email":"balpsn@google.cn","bio":"harness B2B vortals"},
-{"id":25,"nama":"Krispin Spellacey","email":"kspellaceyo@harvard.edu","bio":"redefine next-generation ROI"},
-{"id":26,"nama":"Cyndia Scholtz","email":"cscholtzp@hatena.ne.jp","bio":"extend wireless niches"},
-{"id":27,"nama":"Elisha Aimer","email":"eaimerq@devhub.com","bio":"innovate granular networks"},
-{"id":28,"nama":"Shayla Crocetto","email":"scrocettor@unc.edu","bio":"engage killer e-markets"},
-{"id":29,"nama":"Birch Bichener","email":"bbicheners@multiply.com","bio":"brand visionary metrics"},
-{"id":30,"nama":"Gallagher Woodington","email":"gwoodingtont@npr.org","bio":"maximize wireless solutions"},
-{"id":31,"nama":"Jo Corselles","email":"jcorsellesu@archive.org","bio":"implement proactive e-tailers"},
-{"id":32,"nama":"Cordie Staves","email":"cstavesv@hexun.com","bio":"brand mission-critical niches"},
-{"id":33,"nama":"Natalee Lanfranconi","email":"nlanfranconiw@simplemachines.org","bio":"empower rich paradigms"},
-{"id":34,"nama":"Olwen MacKowle","email":"omackowlex@fotki.com","bio":"deploy intuitive e-business"},
-{"id":35,"nama":"Finlay Prior","email":"fpriory@globo.com","bio":"leverage strategic e-commerce"},
-{"id":36,"nama":"Aubert Wealleans","email":"awealleansz@hud.gov","bio":"exploit end-to-end supply-chains"},
-{"id":37,"nama":"Rollie Drust","email":"rdrust10@usgs.gov","bio":"aggregate real-time paradigms"},
-{"id":38,"nama":"Felizio Whelpton","email":"fwhelpton11@wix.com","bio":"integrate rich portals"},
-{"id":39,"nama":"Ilario Servant","email":"iservant12@yellowpages.com","bio":"incentivize holistic communities"},
-{"id":40,"nama":"Stella Colnett","email":"scolnett13@acquirethisname.com","bio":"e-enable strategic architectures"},
-{"id":41,"nama":"Jany Daubney","email":"jdaubney14@flavors.me","bio":"cultivate dot-com systems"},
-{"id":42,"nama":"Ortensia Norquay","email":"onorquay15@hibu.com","bio":"enable holistic functionalities"},
-{"id":43,"nama":"Marcy Foskin","email":"mfoskin16@oracle.com","bio":"revolutionize virtual web services"},
-{"id":44,"nama":"Pattie Hegerty","email":"phegerty17@cbsnews.com","bio":"morph transparent e-commerce"},
-{"id":45,"nama":"Chryste Ivey","email":"civey18@dagondesign.com","bio":"seize intuitive applications"},
-{"id":46,"nama":"Linn Gegay","email":"lgegay19@nyu.edu","bio":"incubate integrated markets"},
-{"id":47,"nama":"Mathe Vockins","email":"mvockins1a@vkontakte.ru","bio":"brand plug-and-play eyeballs"},
-{"id":48,"nama":"Nilson Prujean","email":"nprujean1b@usatoday.com","bio":"mesh extensible models"},
-{"id":49,"nama":"Neils Anster","email":"nanster1c@ted.com","bio":"cultivate integrated niches"},
-{"id":50,"nama":"Gerek Tarquinio","email":"gtarquinio1d@twitpic.com","bio":"whiteboard cross-platform schemas"}]}
+{
+  "anggota": [{
+  "id": 1,
+  "nama": "Aldric",
+  "email": "acade0@csmonitor.com",
+  "bio": "exploit 24/7 communities"
+}, {
+  "id": 2,
+  "nama": "Starlin",
+  "email": "sdabner1@instagram.com",
+  "bio": "exploit wireless networks"
+}, {
+  "id": 3,
+  "nama": "Teodoro",
+  "email": "tgledstane2@opensource.org",
+  "bio": "disintermediate end-to-end infrastructures"
+}, {
+  "id": 4,
+  "nama": "Mirabella",
+  "email": "mcornels3@google.fr",
+  "bio": "evolve e-business solutions"
+}, {
+  "id": 5,
+  "nama": "Mildred",
+  "email": "msarsons4@tuttocitta.it",
+  "bio": "benchmark compelling supply-chains"
+}, {
+  "id": 6,
+  "nama": "Lolita",
+  "email": "lblamphin5@xinhuanet.com",
+  "bio": "deliver synergistic applications"
+}, {
+  "id": 7,
+  "nama": "Paul",
+  "email": "prushbury6@printfriendly.com",
+  "bio": "synergize wireless e-commerce"
+}, {
+  "id": 8,
+  "nama": "Chase",
+  "email": "crichardot7@msn.com",
+  "bio": "innovate web-enabled supply-chains"
+}, {
+  "id": 9,
+  "nama": "Alisun",
+  "email": "asansam8@cargocollective.com",
+  "bio": "engineer clicks-and-mortar methodologies"
+}, {
+  "id": 10,
+  "nama": "Tobi",
+  "email": "tpaddefield9@globo.com",
+  "bio": "embrace cross-platform relationships"
+}, {
+  "id": 11,
+  "nama": "Maris",
+  "email": "mrenekea@wp.com",
+  "bio": "expedite back-end communities"
+}, {
+  "id": 12,
+  "nama": "Wye",
+  "email": "wpickanceb@stumbleupon.com",
+  "bio": "repurpose best-of-breed functionalities"
+}, {
+  "id": 13,
+  "nama": "Sampson",
+  "email": "smccrackanc@hostgator.com",
+  "bio": "reintermediate frictionless technologies"
+}, {
+  "id": 14,
+  "nama": "Laura",
+  "email": "lfavelad@networksolutions.com",
+  "bio": "maximize next-generation ROI"
+}, {
+  "id": 15,
+  "nama": "Mathew",
+  "email": "mbethoe@webs.com",
+  "bio": "seize ubiquitous users"
+}, {
+  "id": 16,
+  "nama": "Arty",
+  "email": "acereceresf@sfgate.com",
+  "bio": "cultivate proactive models"
+}, {
+  "id": 17,
+  "nama": "Courtenay",
+  "email": "cdolang@forbes.com",
+  "bio": "streamline one-to-one experiences"
+}, {
+  "id": 18,
+  "nama": "Joycelin",
+  "email": "jhaggidonh@blog.com",
+  "bio": "syndicate dynamic ROI"
+}, {
+  "id": 19,
+  "nama": "Ree",
+  "email": "rshrievei@imdb.com",
+  "bio": "empower extensible channels"
+}, {
+  "id": 20,
+  "nama": "Arielle",
+  "email": "afewlassj@blogtalkradio.com",
+  "bio": "extend efficient technologies"
+}]}
