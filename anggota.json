@@ -1,101 +1,82 @@
-[{
-  "id": 1,
-  "nama": "Atlante",
-  "email": "azelley0@harvard.edu",
-  "bio": "evolve frictionless niches"
-}, {
-  "id": 2,
-  "nama": "Hallie",
-  "email": "hcholerton1@vk.com",
-  "bio": "synthesize real-time ROI"
-}, {
-  "id": 3,
-  "nama": "Darn",
-  "email": "dshuttle2@wikispaces.com",
-  "bio": "maximize synergistic e-business"
-}, {
-  "id": 4,
-  "nama": "Noreen",
-  "email": "naire3@pinterest.com",
-  "bio": "reinvent interactive architectures"
-}, {
-  "id": 5,
-  "nama": "Eustacia",
-  "email": "edrinkale4@icio.us",
-  "bio": "expedite open-source functionalities"
-}, {
-  "id": 6,
-  "nama": "Meredith",
-  "email": "mperree5@bloomberg.com",
-  "bio": "incubate transparent communities"
-}, {
-  "id": 7,
-  "nama": "Malissa",
-  "email": "modyvoie6@cnet.com",
-  "bio": "embrace synergistic metrics"
-}, {
-  "id": 8,
-  "nama": "Iolande",
-  "email": "ibirkett7@devhub.com",
-  "bio": "mesh enterprise content"
-}, {
-  "id": 9,
-  "nama": "Cyrus",
-  "email": "cclew8@wix.com",
-  "bio": "strategize scalable networks"
-}, {
-  "id": 10,
-  "nama": "Gillian",
-  "email": "gfrancesco9@vkontakte.ru",
-  "bio": "productize integrated web services"
-}, {
-  "id": 11,
-  "nama": "Correna",
-  "email": "cloughmana@chron.com",
-  "bio": "incentivize plug-and-play vortals"
-}, {
-  "id": 12,
-  "nama": "Laurena",
-  "email": "ldungeyb@va.gov",
-  "bio": "iterate world-class eyeballs"
-}, {
-  "id": 13,
-  "nama": "Candy",
-  "email": "cdalwoodc@java.com",
-  "bio": "streamline strategic convergence"
-}, {
-  "id": 14,
-  "nama": "Allyson",
-  "email": "aortasd@smh.com.au",
-  "bio": "enhance cross-media deliverables"
-}, {
-  "id": 15,
-  "nama": "Francyne",
-  "email": "fblatchere@mozilla.org",
-  "bio": "expedite back-end portals"
-}, {
-  "id": 16,
-  "nama": "Tomaso",
-  "email": "thavelinef@wikimedia.org",
-  "bio": "repurpose intuitive web-readiness"
-}, {
-  "id": 17,
-  "nama": "Mirna",
-  "email": "mivanchikovg@fema.gov",
-  "bio": "whiteboard global ROI"
-}, {
-  "id": 18,
-  "nama": "Glori",
-  "email": "gbradyh@time.com",
-  "bio": "innovate back-end functionalities"
-}, {
-  "id": 19,
-  "nama": "Renata",
-  "email": "rmitkcovi@techcrunch.com",
-  "bio": "brand 24/7 deliverables"
-}, {
-  "id": 20,
-  "nama": "Vivienne",
-  "email": "vrawstornej@xinhuanet.com",
-  "bio": "unleash dynamic e-markets"
-}]
+// 20200428031110
+// https://my-json-server.typicode.com/antoniluthfi/tugasDicoding/animals
+
+[
+  {
+    "id": 1,
+    "first_name": "Scaly-breasted lorikeet",
+    "last_name": "Trichoglossus chlorolepidotus",
+    "image": "img/Trichoglossus chlorolepidotus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Scaly-breasted_lorikeet"
+  },
+  {
+    "id": 2,
+    "first_name": "Eurasian beaver",
+    "last_name": "Castor fiber",
+    "image": "img/Castor fiber.jpg",
+    "link": "https://en.wikipedia.org/wiki/Eurasian_beaver"
+  },
+  {
+    "id": 3,
+    "first_name": "Impala",
+    "last_name": "Aepyceros melampus",
+    "image": "img/Aepyceros mylampus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Impala"
+  },
+  {
+    "id": 4,
+    "first_name": "White-nosed coati",
+    "last_name": "Nasua narica",
+    "image": "img/Nasua narica.jpg",
+    "link": "https://en.wikipedia.org/wiki/White-nosed_coati"
+  },
+  {
+    "id": 5,
+    "first_name": "Blacksmith lapwing",
+    "last_name": "Vanellus armatus",
+    "image": "img/Vanellus armatus.jpg",
+    "link": "https://en.wikipedia.org/wiki/Blacksmith_lapwing"
+  },
+  {
+    "id": 6,
+    "first_name": "Common myna",
+    "last_name": "Acridotheres tristis",
+    "image": "img/Acridotheres tristis.jpg",
+    "link": "https://en.wikipedia.org/wiki/Common_myna"
+  },
+  {
+    "id": 7,
+    "first_name": "African Buffalo",
+    "last_name": "Syncerus caffer",
+    "image": "img/Snycerus caffer.jpg",
+    "link": "https://en.wikipedia.org/wiki/African_buffalo"
+  },
+  {
+    "id": 8,
+    "first_name": "Southern hairy-nosed wombat",
+    "last_name": "Lasiorhinus latifrons",
+    "image": "img/Lasiorhinus latifrons.jpg",
+    "link": "https://en.wikipedia.org/wiki/Southern_hairy-nosed_wombat"
+  },
+  {
+    "id": 17,
+    "first_name": "Tayra",
+    "last_name": "Eira barbara",
+    "image": "img/Eira barbata.jpg",
+    "link": "https://en.wikipedia.org/wiki/Tayra"
+  },
+  {
+    "id": 9,
+    "first_name": "Arabian Camel",
+    "last_name": "Camelus dromedarius",
+    "image": "img/Camelus dromedarius.jpg",
+    "link": "https://en.wikipedia.org/wiki/Dromedary"
+  },
+  {
+    "id": 10,
+    "first_name": "Blue crane",
+    "last_name": "Anthropoides paradisea",
+    "image": "img/Anthropoides paradisea.jpg",
+    "link": "https://en.wikipedia.org/wiki/Blue_crane"
+  }
+]
