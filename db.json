@@ -1,4 +1,4 @@
-[{"id":1,"nama":"Kissie Braunston","email":"kbraunston0@google.it","bio":"cultivate leading-edge partnerships"},
+{"anggota": [{"id":1,"nama":"Kissie Braunston","email":"kbraunston0@google.it","bio":"cultivate leading-edge partnerships"},
 {"id":2,"nama":"Fiona Peever","email":"fpeever1@mapy.cz","bio":"e-enable viral markets"},
 {"id":3,"nama":"Ebenezer Kilvington","email":"ekilvington2@netlog.com","bio":"engage killer communities"},
 {"id":4,"nama":"Salomi Handslip","email":"shandslip3@seattletimes.com","bio":"productize B2B action-items"},
@@ -47,4 +47,4 @@
 {"id":47,"nama":"Mathe Vockins","email":"mvockins1a@vkontakte.ru","bio":"brand plug-and-play eyeballs"},
 {"id":48,"nama":"Nilson Prujean","email":"nprujean1b@usatoday.com","bio":"mesh extensible models"},
 {"id":49,"nama":"Neils Anster","email":"nanster1c@ted.com","bio":"cultivate integrated niches"},
-{"id":50,"nama":"Gerek Tarquinio","email":"gtarquinio1d@twitpic.com","bio":"whiteboard cross-platform schemas"}]
+{"id":50,"nama":"Gerek Tarquinio","email":"gtarquinio1d@twitpic.com","bio":"whiteboard cross-platform schemas"}]}
